@@ -1,0 +1,2 @@
+O teste é bem simples, consiste em chegar o mais próximo possível da imagem chamada: exemplo.jpg.
+Para isso será necessário o uso de HTML e CSS, também disponibilizamos as imagens necessárias que estão localizadas na pasta imgs.
